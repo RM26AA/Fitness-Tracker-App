@@ -43,7 +43,7 @@ A beautiful, cross-platform React Native app that helps users track their daily 
 ```bash
 git clone https://github.com/your-username/fitness-tracker-app.git
 cd fitness-tracker-app
-
+```
 ---
 
 ## 2. Install Dependencies
