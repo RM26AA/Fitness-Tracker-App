@@ -57,11 +57,11 @@ npx expo start
 
 ## ✨ Future Improvements
 
--Firebase/Auth integration
--Editable profile
--Progress streaks
--Push notifications
--Dark mode
+- Firebase/Auth integration
+- Editable profile
+- Progress streaks
+- Push notifications
+- Dark mode
 
 ## 🙌 Credits
 Built with ❤️ using Expo and React Native.
