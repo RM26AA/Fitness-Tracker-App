@@ -1,11 +1,88 @@
-# Sample Snack app
+# 🏃‍♀️ Fitness Tracker App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A beautiful, cross-platform React Native app that helps users track their daily fitness progress — including steps, distance, calories, achievements, and profile info. Built with Expo and designed to be clean, modern, and user-friendly.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## 📱 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- 📊 **Dashboard/Home**
+  - View daily progress: steps, calories, distance
+  - Dynamic data updates
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- 🏅 **Achievements**
+  - Distance, steps, and calorie badges
+  - Auto-highlighted badges based on user progress
+  - Pie chart showing activity breakdown
+  - Reward points tracker
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- 👤 **Profile**
+  - Profile picture and user details (name, age, email, etc.)
+  - Contact support button
+  - Delete account confirmation
+
+- ⚙️ **Smooth Animations & Icons**
+  - Stylish icons using `@expo/vector-icons`
+  - Animated fade-in effects
+  - Responsive and aesthetic UI
+
+---
+
+## 🛠️ Tech Stack
+
+- React Native (with Expo)
+- `react-native-tab-view` for navigation tabs
+- `react-native-chart-kit` for pie charts
+- `@expo/vector-icons` for icons
+- Animated API for smooth transitions
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/fitness-tracker-app.git
+cd fitness-tracker-app
+
+---
+
+## 2. Install Dependencies
+npm install
+# or
+yarn install
+
+## 3. Start the App
+
+npx expo start
+
+## ✨ Future Improvements
+
+-Firebase/Auth integration
+-Editable profile
+-Progress streaks
+-Push notifications
+-Dark mode
+
+## 🙌 Credits
+Built with ❤️ using Expo and React Native.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
